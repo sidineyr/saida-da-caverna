@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Audio/editor temporary files
+*.peak
+*.bak
+*.tmp
+*.ardour.bak
+
+# Operating systems
+.DS_Store
+Thumbs.db
